@@ -1,12 +1,12 @@
 # Site
-name: "pejuang rupiah"
-title: "pejuang rupiah"
-description: "pejuang rupiah berita blogger tentang kumpulan berbagai informasi terbaru dan berita onlien berbagai sumber."
+name: "bapak blogger"
+title: "bapak blogger"
+description: "bapak blogger adalah tempat menimba ilmunya seorang bapak satu anak di dunia blogger "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
 baseurl: '/blog'
-google_analytics: 'UA-46278016-1'
-disqus: 'postkomik-github-1'
+google_analytics: ''
+disqus: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -30,15 +30,15 @@ authors:
     web: https://postkomik.github.io
     twitter: https://twitter.com/OnlienPejuang
     description: "Belajar menjadi baik dan pantang menyerah "
-  postkomik:
-    name: Postkomik
-    display_name: Postkomik
+  bapak:
+    name: bapak
+    display_name: Bapak Blogger
     avatar: 'assets/images/postkomik.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: Ahmadalwy@gmail.com
-    web: https://postkomik.github.io
-    twitter: https://twitter.com/OnlienPejuang
-    description: "Belajar menjadi baik dan pantang menyerah hobi menganalisa sebuah permasalahan dan memahami perasaan wanita ahay wkwkwwk"
+    email: dyasdika2@gmail.com
+    web: https://bapakbloggerpemula.blogspot.com
+    twitter: https://twitter.com/
+    description: "Penikmat dunia blogging dan SEO"
     
 
 # Plugins
