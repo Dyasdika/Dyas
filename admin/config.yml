@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bapakblogger/dyas
+  repo: dyasdika/dyas
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images"
